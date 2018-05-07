@@ -1,0 +1,41 @@
+#comeback {
+    display: block;
+    width: 100%;
+    min-height: 200px;
+    height: auto;
+    resize: none;
+    overflow: auto;
+    padding: 10px;
+}
+
+body {
+    background-image: url("../images/cactus.png");
+}
+
+.headings {
+    padding: 20px;
+    background-color: rgba(250,250,250,0.7);
+}
+
+h1, h5 {
+    text-align: center;
+    font-weight: bold;
+}
+
+h5 {
+    text-decoration: underline;
+}
+
+form {
+    margin-top: 100px
+}
+
+button {
+    margin-top: 50px;
+}
+
+footer {
+    background-color: #0A6242;
+    color: white;
+    text-align: center;
+}
